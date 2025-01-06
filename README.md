@@ -1,2 +1,2 @@
 # Google-Cybersecurity-Certs-Projects
-This repository showcases my work in securing cloud infrastructures, focusing on Google Cloud Platform (GCP). It includes code, tools, and configurations that demonstrate my skills in vulnerability management, automation, threat detection, and incident response, reflecting my expertise in cloud cybersecurity.
+This repository showcases my journey through Google’s Cybersecurity Professional Certificates program. It includes key concepts, hands-on projects, and skills gained, covering topics like threat detection, network security, incident response, and cloud security, demonstrating my proficiency in modern cybersecurity practices.
