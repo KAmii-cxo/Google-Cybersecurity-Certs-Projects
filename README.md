@@ -15,7 +15,7 @@ This repository showcases my journey through Google’s Cybersecurity Profession
    
 4. [Cybersecurity Incident Report : Network Traffic Analysis](https://github.com/KAmii-cxo/Cybersecurity-Incident-Report-Network-Traffic-Analysis) 
 
-   This activity investigates an issue with unreachable port 443 when accessing a secure employee background check website. The network security team uses tcpdump to analyze traffic, suspecting either a firewall misconfiguration or a potential malicious attack. The team is working to restore access and identify the cause.
+   This activity investigates an issue with unreachable port 443 when accessing a secure employee background check website. The network security team uses tcpdump to analyze traffic, suspecting either a firewall misconfiguration or a potential malicious attack. The team is working to restore access and identify the cause. [How To Read Tcpdump Traffic Log](https://github.com/KAmii-cxo/How-To-Read-Tcpdump-Traffic-Log)
 
 5. [Apply OS Hardening Techniques Report](https://github.com/KAmii-cxo/Apply-OS-Hardening-Technique-Incident-Report)
 
