@@ -25,4 +25,6 @@ This repository showcases my journey through Google’s Cybersecurity Profession
 
    The reports consists of hardening tools and methodology to implement, and details elaboration about them.
 
-7. 
+7. [Applying NIST CSF](https://github.com/KAmii-cxo/Applying-NIST-Framework)
+
+   5 core functions that help organizations manage digital security risk. 
