@@ -20,3 +20,9 @@ This repository showcases my journey through Google’s Cybersecurity Profession
 5. [Apply OS Hardening Techniques Report](https://github.com/KAmii-cxo/Apply-OS-Hardening-Technique-Incident-Report)
 
    This report covers a cybersecurity incident where HTTP traffic was used to deliver malware via a compromised website. A brute force attack allowed the attacker to lock out the legitimate admin and inject malicious code. The report includes an analysis of the incident and recommendations for remediations, such as improved password policies and two-factor authentication (2FA).
+
+6. [Security Risk Assessment Report](https://github.com/KAmii-cxo/Security-Assessment-Report)
+
+   The reports consists of hardening tools and methodology to implement, and details elaboration about them.
+
+7. 
