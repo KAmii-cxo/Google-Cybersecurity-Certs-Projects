@@ -27,4 +27,15 @@ This repository showcases my journey through Google’s Cybersecurity Profession
 
 7. [Applying NIST CSF](https://github.com/KAmii-cxo/Applying-NIST-Framework)
 
-   5 core functions that help organizations manage digital security risk. 
+   5 core functions that help organizations manage digital security risk.
+
+8. [Incident Report Analysis](https://github.com/KAmii-cxo/Incident-Report-Analysis)
+
+   This document provides a detailed analysis of a recent cybersecurity incident involving unauthorized access to a customer database through phishing. It outlines the actions taken during each phase of incident response—Identify, Protect, Detect, Respond, and Recover—while proposing measures to strengthen security and prevent future attacks.
+
+
+
+
+
+
+   
