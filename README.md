@@ -41,12 +41,38 @@ This repository showcases my journey through Google’s Cybersecurity Profession
 
     Reference for commmands in SQL and [Applying Filters for SQL Project](https://docs.google.com/document/d/1Lxh-hgu4XO7LDfN3pz0-GI_QIGWp8H0K8QVxV91sIVI/edit?usp=drive_link)
 
-11. [Risk Register]()
+11. [Risk Register](https://github.com/KAmii-cxo/Risk-Register-)
+
+    The definition of Risk Register and Risk Matrix.
 
 12. [Data Leak Worksheet](https://github.com/KAmii-cxo/Data-Leak-Worksheet)
 
     The exercise of applying least privilege and NIST SP 800-53:AC-6
 
+13. [Access Controls Worksheet](https://github.com/KAmii-cxo/Access-Control-Worksheet)
+
+   An Access Control Worksheet is a document that helps manage and track who has access to what in a system. 
+
+14. [NIST SP 8000-30 Rev.1](https://github.com/KAmii-cxo/NIST-SP-800-30-Rev.1)
+
+15. [Vulnerability Assessment Report](https://github.com/KAmii-cxo/Vulnerability-Assessment-Report)
+
+An example report of vulenrability assessment.
+
+16. [Parking Lot USB Exercise](https://github.com/KAmii-cxo/Parking-Lot-USB-Exercise)
+
+17. [Process for Attack Simulation and Threat Analysis (PASTA) Worksheet](https://github.com/KAmii-cxo/PASTA-Worksheet)
+
+   PASTA is a risk-based threat modeling methodology that helps identify and address potential vulnerabilities before they can be exploited by attackers.
+
+18. [Incident Handle Journal](https://github.com/KAmii-cxo/Incident-Handler-Journal)
+
+   Learning process of incident handling emphasize the importance of a structured, collaborative, and proactive approach to incident handling. 
+
+19. [Alert Tickets Incident Response]() 
+
+20. [Final Report Exercise](https://docs.google.com/document/d/1MDBqwvEU7pchJtgWNPUGi0t7MjuUjQCxetQw-m6UcdI/edit?usp=drive_link)
+    
 
 
 
