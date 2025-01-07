@@ -71,7 +71,11 @@ An example report of vulenrability assessment.
 
 19. [Alert Tickets Incident Response]() 
 
+   Learning process of alert tickets incident response and using playbook for a certain incident.
+
 20. [Final Report Exercise](https://docs.google.com/document/d/1MDBqwvEU7pchJtgWNPUGi0t7MjuUjQCxetQw-m6UcdI/edit?usp=drive_link)
+
+21. [Learning Python]()
     
 
 
