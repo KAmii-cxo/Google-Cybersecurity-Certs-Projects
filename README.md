@@ -37,7 +37,10 @@ This repository showcases my journey through Google’s Cybersecurity Profession
 
 Reference for commmands in Linux
 
-10. [SQL]
+10. [SQL](https://github.com/KAmii-cxo/SQL)
+
+Reference for commmands in SQL
+
 
 
 
