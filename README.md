@@ -35,11 +35,11 @@ This repository showcases my journey through Google’s Cybersecurity Profession
 
 9. [LINUX Guide](https://github.com/KAmii-cxo/LINUX-Guide)
 
-Reference for commmands in Linux
+   Reference for commmands in Linux
 
 10. [SQL](https://github.com/KAmii-cxo/SQL)
 
-Reference for commmands in SQL
+   Reference for commmands in SQL
 
 
 
