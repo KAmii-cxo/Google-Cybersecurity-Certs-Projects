@@ -39,7 +39,7 @@ This repository showcases my journey through Google’s Cybersecurity Profession
 
 10. [SQL](https://github.com/KAmii-cxo/SQL)
 
-    Reference for commmands in SQL
+    Reference for commmands in SQL and [Applying Filters for SQL Project](https://docs.google.com/document/d/1Lxh-hgu4XO7LDfN3pz0-GI_QIGWp8H0K8QVxV91sIVI/edit?usp=drive_link)
 
 
 
