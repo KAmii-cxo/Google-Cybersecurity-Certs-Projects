@@ -33,6 +33,12 @@ This repository showcases my journey through Google’s Cybersecurity Profession
 
    This document provides a detailed analysis of a recent cybersecurity incident involving unauthorized access to a customer database through phishing. It outlines the actions taken during each phase of incident response—Identify, Protect, Detect, Respond, and Recover—while proposing measures to strengthen security and prevent future attacks.
 
+9. [LINUX Guide](https://github.com/KAmii-cxo/LINUX-Guide)
+
+Reference for commmands in Linux
+
+10. [SQL]
+
 
 
 
