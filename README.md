@@ -43,7 +43,7 @@ This repository showcases my journey through Google’s Cybersecurity Profession
 
 11. [Risk Register]()
 
-12. [Data Leak Worksheet[(https://github.com/KAmii-cxo/Data-Leak-Worksheet)
+12. [Data Leak Worksheet](https://github.com/KAmii-cxo/Data-Leak-Worksheet)
     The exercise of applying least privilege and NIST SP 800-53:AC-6
 
 
