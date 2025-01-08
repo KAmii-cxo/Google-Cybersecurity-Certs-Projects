@@ -51,27 +51,27 @@ This repository showcases my journey through Google’s Cybersecurity Profession
 
 13. [Access Controls Worksheet](https://github.com/KAmii-cxo/Access-Control-Worksheet)
 
-   An Access Control Worksheet is a document that helps manage and track who has access to what in a system. 
+    An Access Control Worksheet is a document that helps manage and track who has access to what in a system. 
 
 14. [NIST SP 8000-30 Rev.1](https://github.com/KAmii-cxo/NIST-SP-800-30-Rev.1)
 
 15. [Vulnerability Assessment Report](https://github.com/KAmii-cxo/Vulnerability-Assessment-Report)
 
-An example report of vulenrability assessment.
+    An example report of vulenrability assessment.
 
 16. [Parking Lot USB Exercise](https://github.com/KAmii-cxo/Parking-Lot-USB-Exercise)
 
 17. [Process for Attack Simulation and Threat Analysis (PASTA) Worksheet](https://github.com/KAmii-cxo/PASTA-Worksheet)
 
-   PASTA is a risk-based threat modeling methodology that helps identify and address potential vulnerabilities before they can be exploited by attackers.
+    PASTA is a risk-based threat modeling methodology that helps identify and address potential vulnerabilities before they can be exploited by attackers.
 
 18. [Incident Handle Journal](https://github.com/KAmii-cxo/Incident-Handler-Journal)
 
-   Learning process of incident handling emphasize the importance of a structured, collaborative, and proactive approach to incident handling. 
+    Learning process of incident handling emphasize the importance of a structured, collaborative, and proactive approach to incident handling. 
 
 19. [Alert Tickets Incident Response]() 
 
-   Learning process of alert tickets incident response and using playbook for a certain incident.
+    Learning process of alert tickets incident response and using playbook for a certain incident.
 
 20. [Final Report Exercise](https://docs.google.com/document/d/1MDBqwvEU7pchJtgWNPUGi0t7MjuUjQCxetQw-m6UcdI/edit?usp=drive_link)
 
